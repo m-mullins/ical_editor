@@ -1,0 +1,2479 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:portail.etsmtl.ca/api/cours
+BEGIN:VEVENT
+SUMMARY:ENR848-01 (C)
+DTSTART:20230512T083000
+DTEND:20230512T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355651-1
+SEQUENCE:0
+DESCRIPTION:ENR848 - Technologies des systèmes d’énergie éolienne - A
+ ctivité de cours
+LOCATION:D-3008      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENR848-01 (C)
+DTSTART:20230519T083000
+DTEND:20230519T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355652-1
+SEQUENCE:0
+DESCRIPTION:ENR848 - Technologies des systèmes d’énergie éolienne - A
+ ctivité de cours
+LOCATION:D-3008      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENR848-01 (C)
+DTSTART:20230526T083000
+DTEND:20230526T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355653-1
+SEQUENCE:0
+DESCRIPTION:ENR848 - Technologies des systèmes d’énergie éolienne - A
+ ctivité de cours
+LOCATION:D-3008      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENR848-01 (C)
+DTSTART:20230602T083000
+DTEND:20230602T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355654-1
+SEQUENCE:0
+DESCRIPTION:ENR848 - Technologies des systèmes d’énergie éolienne - A
+ ctivité de cours
+LOCATION:D-3008      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENR848-01 (C)
+DTSTART:20230609T083000
+DTEND:20230609T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355655-1
+SEQUENCE:0
+DESCRIPTION:ENR848 - Technologies des systèmes d’énergie éolienne - A
+ ctivité de cours
+LOCATION:D-3008      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENR848-01 (C)
+DTSTART:20230616T083000
+DTEND:20230616T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355650-1
+SEQUENCE:0
+DESCRIPTION:ENR848 - Technologies des systèmes d’énergie éolienne - A
+ ctivité de cours
+LOCATION:D-3008      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230508T180000
+DTEND:20230508T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395791-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230515T180000
+DTEND:20230515T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395792-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230524T180000
+DTEND:20230524T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395793-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230529T180000
+DTEND:20230529T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395794-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230605T180000
+DTEND:20230605T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395795-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230612T180000
+DTEND:20230612T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395796-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230619T180000
+DTEND:20230619T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395797-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230626T180000
+DTEND:20230626T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395798-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230703T180000
+DTEND:20230703T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395799-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230710T180000
+DTEND:20230710T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395800-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230717T180000
+DTEND:20230717T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395801-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230724T180000
+DTEND:20230724T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395802-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (C)
+DTSTART:20230731T180000
+DTEND:20230731T213000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395803-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - A
+ ctivité de cours
+LOCATION:D-3007      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230509T180000
+DTEND:20230509T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395804-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230516T180000
+DTEND:20230516T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395805-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230523T180000
+DTEND:20230523T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395806-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230530T180000
+DTEND:20230530T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395807-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230606T180000
+DTEND:20230606T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395808-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230613T180000
+DTEND:20230613T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395809-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230620T180000
+DTEND:20230620T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395810-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230627T180000
+DTEND:20230627T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395811-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230704T180000
+DTEND:20230704T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395812-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230711T180000
+DTEND:20230711T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395813-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230718T180000
+DTEND:20230718T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395814-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230725T180000
+DTEND:20230725T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395815-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC525-02 (Labo)
+DTSTART:20230801T180000
+DTEND:20230801T210000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/395816-1
+SEQUENCE:0
+DESCRIPTION:MEC525 - Conception vibratoire et dynamique des structures - L
+ aboratoire
+LOCATION:A-1222      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230505T133000
+DTEND:20230505T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391752-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230512T133000
+DTEND:20230512T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391753-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230519T133000
+DTEND:20230519T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391754-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230526T133000
+DTEND:20230526T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391755-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230602T133000
+DTEND:20230602T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391756-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230609T133000
+DTEND:20230609T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391757-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230616T133000
+DTEND:20230616T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391758-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230629T133000
+DTEND:20230629T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391759-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230707T133000
+DTEND:20230707T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391760-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230714T133000
+DTEND:20230714T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391761-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230721T133000
+DTEND:20230721T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391762-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230728T133000
+DTEND:20230728T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391763-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEC795-01 (C)
+DTSTART:20230804T133000
+DTEND:20230804T173000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/391764-1
+SEQUENCE:0
+DESCRIPTION:MEC795 - Projet de fin d'études en génie mécanique - Activi
+ té de cours
+LOCATION:A-1220      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Activité de cou
+ rs
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Activité de cou
+ rs
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Activité de cou
+ rs
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Activité de cou
+ rs
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Activité de cou
+ rs
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Activité de cou
+ rs
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Activité de cou
+ rs
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Deuxième activi
+ té de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Deuxième activi
+ té de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Deuxième activi
+ té de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Deuxième activi
+ té de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Deuxième activi
+ té de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-1
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse d'une
+  aile en flèche en mécanique des fluides numérique\n - Deuxième activi
+ té de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-10
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Analyse des v
+ ariations en production aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Activité de
+  cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Activité de
+  cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Activité de
+  cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Activité de
+  cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Activité de
+  cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Activité de
+  cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Activité de
+  cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Deuxième ac
+ tivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Deuxième ac
+ tivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Deuxième ac
+ tivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Deuxième ac
+ tivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Deuxième ac
+ tivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-7
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Certification
+  de Navigabilité Aéronautique\, Règlementation et Lois\n - Deuxième ac
+ tivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-18
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Introduction 
+ à la mécanique des fluides numérique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-6
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - INTRODUCTION 
+ AU CALCUL HAUTE PERFORMANCE EN GÉNIE\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-13
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Program. des 
+ systèmes de CAO appliquée à l'aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-8
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes CAO appliquée en aéronautique\n - Deuxième activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-15
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliquée à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-11
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  des systèmes de CAO appliqués à l'aéronautique\n - Deuxième activit
+ é de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Activité de 
+ cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Deuxième act
+ ivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Deuxième act
+ ivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Deuxième act
+ ivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Deuxième act
+ ivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Deuxième act
+ ivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-2
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Programmation
+  Python pour les projets et stage aux cycles supérieurs\n - Deuxième act
+ ivité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-17
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Systèmes de 
+ mesure appliqués à l'aéronautique\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230509T133000
+DTEND:20230509T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355843-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230516T133000
+DTEND:20230516T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355844-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230523T133000
+DTEND:20230523T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355845-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230530T133000
+DTEND:20230530T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355846-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230606T133000
+DTEND:20230606T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355847-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230613T133000
+DTEND:20230613T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355848-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230620T133000
+DTEND:20230620T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355849-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230503T133000
+DTEND:20230503T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355850-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230510T133000
+DTEND:20230510T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355851-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230517T133000
+DTEND:20230517T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355852-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230531T133000
+DTEND:20230531T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355853-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230607T133000
+DTEND:20230607T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355854-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MGA802-01 (C)
+DTSTART:20230614T133000
+DTEND:20230614T170000
+DTSTAMP:20230528T183619Z
+UID:http://signets.etsmtl.ca/horaireEtu/355855-3
+SEQUENCE:0
+DESCRIPTION:MGA802 - Sujets spéciaux I en aéronautique\n - Théorie du p
+ ilotage d’aéronefs\n - Deuxième activité de cours
+LOCATION:A-1504      
+STATUS:Confirmed
+END:VEVENT
+END:VCALENDAR
